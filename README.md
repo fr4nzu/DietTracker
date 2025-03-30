@@ -1,2 +1,2 @@
 # DietTracker
-Diet Optimer using Interpolation with R and Rshiny
+Diet Optimizer using Interpolation with R and Rshiny
